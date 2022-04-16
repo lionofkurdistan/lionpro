@@ -1,0 +1,78 @@
+body {
+    font-size: 15pt;
+}
+header{
+  background-color: red;
+}
+body {
+  background-image: linear-gradient(to left, red, blue);
+  background-color: blue;
+  text-align: center;
+  padding: 10px;
+  background-repeat: on-repeat;
+  background-size: cover;
+}
+img{
+  background-color: black;
+  box-shadow: 0 9px orange;
+  border-left: 10px solid  #999;
+  border: 4px solid burlywood;
+}
+h1 {
+  color: burlywood;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    background-color: black;
+    border-left: 10px solid whitesmoke;
+    border: 5px solid white;
+    box-shadow: 0 9px #999;
+}
+dl{
+  columns: blue;
+  background: beige;
+  font-size: 20px;
+  border: 5px solid orangered;
+  width: 290px;
+  border-left: 10px solid red;
+  border-radius: 8px;
+  padding: 14px;
+  box-shadow: 0 9px burlywood;
+}
+p {
+  color: blue;
+  background: wheat;
+  font-size: 160px;
+  border: 2px solid red;
+  width: 290px;
+  border-left: 12px solid green;
+  border-radius: 5px;
+  padding: 14px;
+  box-shadow: 0 9px #999;
+  font-size: 20px;
+  font-family: Fantasy;
+}
+button {
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: black;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+hr{
+  color: bisque;
+  background-color: bisque;
+    padding: 3px;
+}
+marquee{
+  color: brown;
+  background-color: whitesmoke;
+  border: none;
+}
